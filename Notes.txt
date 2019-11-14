@@ -1,0 +1,5 @@
+1. Download ROBEX from: https://pan.baidu.com/s/1NIn8IML12mpFvNLZH2SMJA
+   Then put the ROBEX folder in ./Externals.
+   
+2. Download Resnet101 from https://pan.baidu.com/s/15YNsANtQmHo-OuJam4cJdQ
+   Then put the Resnet101 folder in root folder.
